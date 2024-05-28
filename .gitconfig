@@ -1,0 +1,17 @@
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+[user]
+	name = Achilleas Athanasiou Fragkoulis
+	email = achilleasatha@gmail.com
+[push]
+	default = current
+[pull]
+	default = merge
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = /Users/achilleas.athanasiou/.gitignore_global
+	editor = atom --wait

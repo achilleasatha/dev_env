@@ -1,0 +1,8 @@
+.idea/
+*.pyc
+venv/
+.python-version
+.coverage
+/~/
+.DS_Store
+.editorconfig
