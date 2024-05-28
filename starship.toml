@@ -28,7 +28,7 @@ format = '[🐋 $context](blue bold) '
 symbol = '🐍 '
 pyenv_version_name = true
 pyenv_prefix = ""
-format = '[${symbol}${pyenv_prefix}($virtualenv )]($style)'
+format = '[$symbol$pyenv_prefix]($style)'
 
 [git_branch]
 symbol = "🌱 "
