@@ -1,0 +1,19 @@
+# Utils
+brew install --cask rectangle
+brew install --cask bluesnooze
+brew install --cask hiddenbar
+
+# Dev env
+brew install starship
+brew install gh
+brew install pipx
+brew install pyenv
+brew install pyenv-virtualenv
+brew install docker
+brew install --cask atom
+# Community or pro versions
+brew install --cask pycharm-ce
+# brew install --cask pycharm
+
+# Apps
+# Bandwidth+ https://apps.apple.com/us/app/bandwidth/id490461369?mt=12
