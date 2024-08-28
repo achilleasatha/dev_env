@@ -14,6 +14,7 @@ brew install --cask atom
 # Community or pro versions
 brew install --cask pycharm-ce
 # brew install --cask pycharm
+brew install kubectx
 
 # Apps
 # Bandwidth+ https://apps.apple.com/us/app/bandwidth/id490461369?mt=12
