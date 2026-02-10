@@ -18,3 +18,8 @@ brew install kubectx
 
 # Apps
 # Bandwidth+ https://apps.apple.com/us/app/bandwidth/id490461369?mt=12
+
+# Git config
+git config --global pager.branch 'head -n 10'
+git config --global rebase.autoSquash true
+git config --global rerere.enabled true
