@@ -15,3 +15,5 @@
 [core]
 	excludesfile = /Users/achilleas.athanasiou/.gitignore_global
 	editor = atom --wait
+[branch]
+	sort = -committerdate
